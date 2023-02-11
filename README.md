@@ -1,5 +1,5 @@
 
-# Numberphone info search
+# PhoneNumber info search
 
 A basic script that combines multiple tools into one
 - Google search
